@@ -1,0 +1,117 @@
+{
+  "header": {
+    "title": "Olkunda",
+    "contact": "Contact",
+    "cart": "Cart"
+  },
+  "hero": {
+    "badge": "New",
+    "collection": "2025 Collection",
+    "title": "{quality} Furniture for Your",
+    "quality": "Quality",
+    "rotatingWords": {
+      "home": "Home",
+      "living": "Living Room",
+      "bedroom": "Bedroom",
+      "office": "Office",
+      "kitchen": "Kitchen"
+    },
+    "subtitle": "Transform your space with our elegant beds, sofas, and furniture. Fast delivery throughout Cameroon 🇨🇲",
+    "viewCatalog": "View Catalog",
+    "contactUs": "Contact Us"
+  },
+  "whyUs": {
+    "title": "Why Olkunda?",
+    "subtitle": "Your satisfaction is our priority",
+    "features": {
+      "quality": {
+        "title": "Premium Quality",
+        "description": "Durable materials and refined finishes"
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "Throughout Cameroon in 48-72h"
+      },
+      "price": {
+        "title": "Competitive Prices",
+        "description": "Best value for money"
+      },
+      "warranty": {
+        "title": "2-Year Warranty",
+        "description": "Responsive after-sales service"
+      }
+    }
+  },
+  "products": {
+    "title": "Our Collection",
+    "subtitle": "Over 100 products available",
+    "categories": {
+      "all": "All products",
+      "beds": "Beds",
+      "sofas": "Sofas",
+      "chairs": "Chairs",
+      "tables": "Tables",
+      "storage": "Storage",
+      "decor": "Decoration"
+    },
+    "addToCart": "Add",
+    "info": "Info",
+    "outOfStock": "Out of stock",
+    "noProducts": "No products found in this category."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know",
+    "questions": {
+      "delivery": {
+        "q": "Do you deliver to my city?",
+        "a": "Yes, we deliver throughout Cameroon. Delivery times vary depending on your location."
+      },
+      "showroom": {
+        "q": "Can I see the products before buying?",
+        "a": "Absolutely! Visit our showroom or contact us on WhatsApp for more information."
+      },
+      "payment": {
+        "q": "What payment methods do you accept?",
+        "a": "We accept Mobile Money (MTN, Orange), cash on delivery, and bank transfer."
+      },
+      "warranty": {
+        "q": "Do you offer a warranty?",
+        "a": "Yes, all our products are guaranteed for 2 years against manufacturing defects."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Home?",
+    "subtitle": "Order now and enjoy free delivery for any order over 500,000 FCFA",
+    "orderWhatsApp": "Order on WhatsApp",
+    "viewProducts": "View Products"
+  },
+  "footer": {
+    "title": "Olkunda Furniture",
+    "description": "Your trusted partner for quality furniture.",
+    "categories": "Categories",
+    "contact": "Contact",
+    "phone": "📱 +237 697 111 394",
+    "location": "📍 Cameroon",
+    "hours": "⏰ Mon-Sat: 8am-6pm",
+    "followUs": "Follow us",
+    "whatsapp": "WhatsApp",
+    "copyright": "© 2025 Olkunda Furniture. All rights reserved."
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "itemCount": "{count} item in your cart",
+    "itemCount_other": "{count} items in your cart",
+    "startShopping": "Start adding products!",
+    "total": "Total:",
+    "checkout": "Order on WhatsApp",
+    "remove": "Remove"
+  },
+  "whatsapp": {
+    "inquiry": "Hello! I'm interested in:\n\n{productName}\nPrice: {price}\n\nCan you give me more information?",
+    "order": "Hello! I would like to order:\n\n{items}\n\nTotal: {total}",
+    "contact": "Hello! I have a question about your products."
+  }
+}

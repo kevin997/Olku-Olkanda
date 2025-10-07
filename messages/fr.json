@@ -1,0 +1,117 @@
+{
+  "header": {
+    "title": "Olkunda",
+    "contact": "Contact",
+    "cart": "Panier"
+  },
+  "hero": {
+    "badge": "Nouveau",
+    "collection": "Collection 2025",
+    "title": "Meubles de {quality} pour Votre",
+    "quality": "Qualité",
+    "rotatingWords": {
+      "home": "Maison",
+      "living": "Salon",
+      "bedroom": "Chambre",
+      "office": "Bureau",
+      "kitchen": "Cuisine"
+    },
+    "subtitle": "Transformez votre espace avec nos lits, canapés et meubles élégants. Livraison rapide partout au Cameroun 🇨🇲",
+    "viewCatalog": "Voir le Catalogue",
+    "contactUs": "Contactez-nous"
+  },
+  "whyUs": {
+    "title": "Pourquoi Olkunda?",
+    "subtitle": "Votre satisfaction est notre priorité",
+    "features": {
+      "quality": {
+        "title": "Qualité Premium",
+        "description": "Matériaux durables et finitions soignées"
+      },
+      "delivery": {
+        "title": "Livraison Rapide",
+        "description": "Partout au Cameroun sous 48-72h"
+      },
+      "price": {
+        "title": "Prix Compétitifs",
+        "description": "Meilleur rapport qualité-prix"
+      },
+      "warranty": {
+        "title": "Garantie 2 ans",
+        "description": "Service après-vente réactif"
+      }
+    }
+  },
+  "products": {
+    "title": "Notre Collection",
+    "subtitle": "Plus de 100 produits disponibles",
+    "categories": {
+      "all": "Tous les produits",
+      "beds": "Lits",
+      "sofas": "Canapés",
+      "chairs": "Chaises",
+      "tables": "Tables",
+      "storage": "Rangement",
+      "decor": "Décoration"
+    },
+    "addToCart": "Ajouter",
+    "info": "Info",
+    "outOfStock": "Rupture de stock",
+    "noProducts": "Aucun produit trouvé dans cette catégorie."
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "subtitle": "Tout ce que vous devez savoir",
+    "questions": {
+      "delivery": {
+        "q": "Livrez-vous dans toute ma ville?",
+        "a": "Oui, nous livrons partout au Cameroun. Les délais varient selon votre localisation."
+      },
+      "showroom": {
+        "q": "Puis-je voir les produits avant d'acheter?",
+        "a": "Absolument! Visitez notre showroom ou contactez-nous sur WhatsApp pour plus d'informations."
+      },
+      "payment": {
+        "q": "Quels sont les modes de paiement acceptés?",
+        "a": "Nous acceptons Mobile Money (MTN, Orange), espèces à la livraison, et virement bancaire."
+      },
+      "warranty": {
+        "q": "Offrez-vous une garantie?",
+        "a": "Oui, tous nos produits sont garantis 2 ans contre les défauts de fabrication."
+      }
+    }
+  },
+  "cta": {
+    "title": "Prêt à Transformer Votre Maison?",
+    "subtitle": "Commandez maintenant et profitez de la livraison gratuite pour toute commande supérieure à 500,000 FCFA",
+    "orderWhatsApp": "Commander sur WhatsApp",
+    "viewProducts": "Voir les Produits"
+  },
+  "footer": {
+    "title": "Olkunda Ameublement",
+    "description": "Votre partenaire de confiance pour des meubles de qualité.",
+    "categories": "Catégories",
+    "contact": "Contact",
+    "phone": "📱 +237 697 111 394",
+    "location": "📍 Cameroun",
+    "hours": "⏰ Lun-Sam: 8h-18h",
+    "followUs": "Suivez-nous",
+    "whatsapp": "WhatsApp",
+    "copyright": "© 2025 Olkunda Ameublement. Tous droits réservés."
+  },
+  "cart": {
+    "title": "Votre Panier",
+    "empty": "Votre panier est vide",
+    "itemCount": "{count} article dans votre panier",
+    "itemCount_other": "{count} articles dans votre panier",
+    "startShopping": "Commencez à ajouter des produits!",
+    "total": "Total:",
+    "checkout": "Commander sur WhatsApp",
+    "remove": "Retirer"
+  },
+  "whatsapp": {
+    "inquiry": "Bonjour! Je suis intéressé(e) par:\n\n{productName}\nPrix: {price}\n\nPouvez-vous me donner plus d'informations?",
+    "order": "Bonjour! Je souhaite commander:\n\n{items}\n\nTotal: {total}",
+    "contact": "Bonjour! J'ai une question sur vos produits."
+  }
+}
