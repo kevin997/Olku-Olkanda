@@ -31,7 +31,7 @@ export default function Home() {
       setCurrentWord((prev) => (prev + 1) % rotatingWords.length);
     }, 2000);
     return () => clearInterval(interval);
-  }, []);
+  }, [rotatingWords.length]);
   
   const filteredProducts = useMemo(() => {
     if (selectedCategory === 'all') {
