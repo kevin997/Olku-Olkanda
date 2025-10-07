@@ -96,9 +96,9 @@ export default function Home() {
                 <span className="text-sm text-muted-foreground">{t('hero.collection')}</span>
               </div>
               <h1 className="text-5xl sm:text-6xl lg:text-8xl font-bold leading-[1.1] tracking-tight">
-                {t.rich('hero.title', { 
-                  quality: (chunks) => <span className="text-primary">{chunks}</span> 
-                })}{' '}
+                {t('hero.title').split(t('hero.quality'))[0]}
+                <span className="text-primary">{t('hero.quality')}</span>
+                {t('hero.title').split(t('hero.quality'))[1]}{' '}
                 <span className="relative inline-block min-w-[200px] sm:min-w-[280px] align-bottom" style={{ height: '1.2em' }}>
                   {rotatingWords.map((word, index) => (
                     <span
