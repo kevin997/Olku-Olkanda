@@ -56,13 +56,37 @@ npm install
 ```bash
 npm run dev
 ```
-Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
+Ouvrez [http://localhost:3000/fr](http://localhost:3000/fr) dans votre navigateur.
 
 ### Mode Production
 ```bash
 npm run build
 npm start
 ```
+
+## 🌍 SEO & Internationalization
+
+Le site est entièrement optimisé pour le SEO avec support multilingue:
+
+- **URLs localisées**: `/fr` (Français) et `/en` (English)
+- **Metadata dynamique**: Titres et descriptions par langue
+- **hreflang tags**: Pour le ciblage international
+- **Sitemap multilingue**: Généré automatiquement
+- **Open Graph**: Optimisé pour les réseaux sociaux
+- **Robots.txt**: Configuration SEO-friendly
+
+### Configuration SEO
+1. Créez `.env.local` avec votre URL:
+```bash
+NEXT_PUBLIC_BASE_URL=https://votre-domaine.com
+```
+
+2. Ajoutez une image OG (1200x630px) dans `/public/og-image.jpg`
+
+3. Consultez `SEO_GUIDE.md` pour la documentation complète
+
+### Vérification Google
+Mettez à jour le code de vérification dans `app/[locale]/layout.tsx`
 
 ## 📱 Intégration WhatsApp
 
